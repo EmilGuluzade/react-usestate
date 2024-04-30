@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  text-align: center;
+}
+
+.lightBtn {
+  margin: 50px;
+  padding: 10px;
+border: 2px solid  black;
+  font-size: 20px;
+  font-weight: 800;
+  background-color: #fff;
+}
+.wrapper{border: none !important;
+  width: 100%;
+  height: 100vh;
+}
